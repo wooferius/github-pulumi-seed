@@ -1,0 +1,5 @@
+config:
+  github:owner: wooferius
+  github:token:
+    secure: AAABABzGAvAO5jPtxqi4FCNdqvbyyq9vJfTsm8YpwnMQfWTzRT9SIE3v6TCiPOQJqp64s3eUNpHhL8t3bv6I3mGbIxfO3LpO
+  

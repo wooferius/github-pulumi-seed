@@ -1,2 +1,2 @@
 # github-pulumi-seed
-Automatically maintain repositories via pulumi
+Automatically maintain GitHub repositories via pulumi
